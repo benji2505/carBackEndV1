@@ -1,0 +1,14 @@
+com/daermann/cardatabase/LoginFilter.class
+com/daermann/cardatabase/domain/OwnerRepository.class
+com/daermann/cardatabase/SecurityConfig.class
+com/daermann/cardatabase/web/CarController.class
+com/daermann/cardatabase/domain/UserRepository.class
+com/daermann/cardatabase/service/UserDetailServiceImpl.class
+com/daermann/cardatabase/domain/Car.class
+com/daermann/cardatabase/domain/CarRepository.class
+com/daermann/cardatabase/CardatabaseApplication.class
+com/daermann/cardatabase/domain/AccountCredentials.class
+com/daermann/cardatabase/service/AuthenticationService.class
+com/daermann/cardatabase/domain/User.class
+com/daermann/cardatabase/AuthenticationFilter.class
+com/daermann/cardatabase/domain/Owner.class

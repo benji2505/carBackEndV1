@@ -1,0 +1,14 @@
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/CarRepository.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/Car.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/OwnerRepository.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/service/AuthenticationService.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/SecurityConfig.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/LoginFilter.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/AccountCredentials.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/service/UserDetailServiceImpl.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/Owner.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/CardatabaseApplication.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/AuthenticationFilter.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/web/CarController.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/User.java
+/Users/jandaermann/OneDrive/2_WIP/cardatabase/src/main/java/com/daermann/cardatabase/domain/UserRepository.java
